@@ -62,10 +62,14 @@ main > .tagline {
 .devto {
 	margin-bottom: -0.20rem;
 }
-
+#grad {
+  background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
 .devto svg {
 	margin-bottom: -0.20rem;
 	margin-left: 0.675rem;;
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
